@@ -1,0 +1,5 @@
+C:\Whatever\Cornell\Fall2022\CS4321\Project3\4321_P3\src\testing\random_input
+C:\Whatever\Cornell\Fall2022\CS4321\Project3\4321_P3\src\testing\random_output
+C:\Whatever\Cornell\Fall2022\CS4321\Project3\4321_P3\src\testing\random_temp
+1
+1
